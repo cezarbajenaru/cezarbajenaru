@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cezarbajenaru
-- 👀 I’m interested in Python and Mountainbikes
-- 🌱 I’m currently learning HTML and CSS. Next comes Python
+- 👀 I’m interested in Devops, coding and Mountainbikes
+- 🌱 I’m currently learning Devops and Python
 - 💞️ I’m looking to collaborate on IT Projects
 - 📫 How to reach me 0771406376 of mailto:bajenarucezar@gmail.com
 
